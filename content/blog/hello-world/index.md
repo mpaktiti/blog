@@ -1,8 +1,10 @@
 ---
 title: Hello World
 date: "2020-02-07"
-description: "This is Maria"
+description: "TL;DR This is Maria and I'll be writing stuff on this blog"
 ---
+
+> TL;DR This is Maria and I'll be writing stuff on this blog.
 
 Hey there. My name is Maria. I split my time between Greece and Mexico and work remotely as a software engineer.
 
