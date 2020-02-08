@@ -54,8 +54,9 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who works remotely from Greece and
-        tries to understand computers for the past couple of decades.
+        Written by <strong>{author}</strong> who splits her time between Greece
+        and Mexico, and tries to understand computers for the past couple of
+        decades.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow her on Twitter

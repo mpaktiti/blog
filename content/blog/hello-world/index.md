@@ -4,7 +4,7 @@ date: "2020-02-07"
 description: "This is Maria"
 ---
 
-Hey there. My name is Maria. I live in Greece and work remotely as a software engineer.
+Hey there. My name is Maria. I split my time between Greece and Mexico and work remotely as a software engineer.
 
 I haven't decided yet if I am a software engineer who likes writing or a writer who likes software engineering.
 
