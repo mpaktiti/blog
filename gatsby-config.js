@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Grecode`,
+    title: `The Daily Maria`,
     author: `Maria Paktiti`,
     description: `My personal blog where I write about tech and everything else`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
