@@ -1,12 +1,12 @@
 ---
 title: 👩‍💻 Handling Postgres exceptions with Clojure
 date: "2020-02-12"
-description: "TL;DR How to dig out Postgres exception codes in your Clojure app"
+description: "TL;DR You can dig out Postgres exception codes in your Clojure app using getSQLState."
 ---
 
-> TL;DR How to dig out Postgres exception codes in your Clojure app.
+> TL;DR You can dig out Postgres exception codes in your Clojure app using getSQLState.
 
-Today I had to add error handling for some DB operations in a Clojure project I'm working on, and it took me some time to figure out how to get the error code from Postgres. Clojure docs are not always the best (because adoption) so I'm writing my findings here in an effort to help others.
+Today I had to add error handling for some DB operations in a Clojure project I'm working on, and it took me some time to figure out how to get the error code from Postgres.
 
 ### Reading the docs
 
@@ -26,7 +26,7 @@ ERROR: invalid input syntax for type uuid: "d660bfb0_4dbf_11ea_baa2_0242c0a82002
 Call getNextException to see other errors in the batch.
 ```
 
-(If this message makes no sense and you are curious, I was trying to delete a record using the column `id` which iwas of type [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier). The error handling I was adding was for the scenario where the input UUID was malformed.)
+(If this message makes no sense and you are curious, I was trying to delete a record using the column `id` which is of type [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier). The error handling I was adding was for the scenario where the input UUID was malformed.)
 
 ### Why the error message is not enough
 
@@ -34,7 +34,7 @@ I didn't want to throw the message as is because that might leak internal detail
 
 Using these methods I would have to parse the error message text, which is not exactly a bullet-proof implementation.
 
-I needed a way to get the error code. In this specific case I wanted to get the [Postrges error codes](https://www.postgresql.org/docs/12/errcodes-appendix.html).
+I needed a way to get the error code. In this specific case I wanted to get the [Postgres error codes](https://www.postgresql.org/docs/12/errcodes-appendix.html).
 
 ### How to get the error code
 
