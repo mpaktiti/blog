@@ -8,11 +8,11 @@ description: "TL;DR My favorite things on the Internet for this week"
 
 My favorites for this week include:
 
-- 🗺️ a map of an imaginary America
-- 😫 a website that shows you what amount of delay is too annoying for a user interaction like typing
-- 🎥 the trailer for the new Wes Anderson movie
-- ⚒️ an online course on the tools most developers use
-- 📓 a new notetaking app for _networked thought_ (fancy hah?)
+- 🗺️ a map of an imaginary America ([more](#tweet-annas-imaginary-america))
+- 😫 a website that shows you what amount of delay is too annoying for a user interaction like typing ([more](#website-the-truth-about-input-relay))
+- 🎥 the trailer for the new Wes Anderson movie ([more](#the-new-wes-anderson-movie-the-french-dispatch))
+- ⚒️ an online course on the tools most developers use ([more](#online-course-the-missing-semester-of-your-cs-education))
+- 📓 a new notetaking app for _networked thought_ (fancy hah?) ([more](#tool-roam))
 
 ### Tweet: Anna's imaginary America
 
