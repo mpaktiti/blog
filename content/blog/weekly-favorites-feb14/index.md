@@ -38,7 +38,7 @@ Wes Anderson is my favorite director and he just released a trailer for his new 
 
 ![Poster for the new Wes Anderson movie: The French Dispatch ](https://pbs.twimg.com/media/EQf_9YKUwAAYlj_?format=jpg&name=4096x4096)
 
-You can watch the trailer here: [THE FRENCH DISPATCH | Official Trailer](https://www.youtube.com/watch?v=TcPk2p0Zaw4).
+You can watch the trailer here: `youtube: TcPk2p0Zaw4`
 
 > THE FRENCH DISPATCH brings to life a collection of stories from the final issue of an American magazine published in a fictional 20th-century French city. It stars Benicio del Toro, Adrien Brody, Tilda Swinton, Léa Seydoux, Frances McDormand, Timothée Chalamet, Lyna Khoudri, Jeffrey Wright, Mathieu Amalric, Stephen Park, Bill Murray and Owen Wilson.
 

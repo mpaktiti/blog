@@ -8,7 +8,7 @@ description: "TL;DR What (and why) we should learn from the speech Joaquin Phoen
 
 Joker was a great movie. And the performance by Joaquin Phoenix was phenomenal. He deserved the Oscar he got. Mostly people agree on that.
 
-What they don't agree on is the things he said at his acceptance speech. If you haven't watched it yet, you can find it here: [Joaquin Phoenix - Oscars Acceptance Speech](https://www.youtube.com/watch?v=WVPw0UrjLuo)
+What they don't agree on is the things he said at his acceptance speech. If you haven't watched it yet, you can find it here: `youtube: WVPw0UrjLuo`
 
 This made part of the Internet angry. I saw a video by a dude making fun of Phoenix and then drinking a glass of milk, saying it was delicious. Others were commenting on how Joaquin is either crazy or high.
 
