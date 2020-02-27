@@ -56,7 +56,7 @@ const Bio = () => {
       <p>
         Written by <strong>{author}</strong> who splits her time between Greece
         and Mexico, and tries to understand computers for the past couple of
-        decades.
+        decades. She writes about anything and everything.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow her on Twitter
