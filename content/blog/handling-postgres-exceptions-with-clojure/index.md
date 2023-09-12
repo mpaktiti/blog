@@ -1,5 +1,5 @@
 ---
-title: 👩‍💻 Handling Postgres exceptions with Clojure
+title: Handling Postgres exceptions with Clojure
 date: "2020-02-12"
 description: "TL;DR You can dig out Postgres exception codes in your Clojure app using getSQLState."
 ---

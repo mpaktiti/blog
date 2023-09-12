@@ -1,5 +1,5 @@
 ---
-title: 📚 What I Talk About When I Talk About Running
+title: What I Talk About When I Talk About Running
 date: "2020-02-27"
 description: "TL;DR I read a book and I liked it"
 ---
