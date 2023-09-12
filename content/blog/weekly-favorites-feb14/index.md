@@ -36,7 +36,7 @@ You can find the initial tweet here: [tweet by Jeff Atwood](https://twitter.com/
 
 Wes Anderson is my favorite director and he just released a trailer for his new movie, The French Dispatch. The movie features his classic aesthetics and an all-star cast.
 
-![Poster for the new Wes Anderson movie: The French Dispatch ](https://pbs.twimg.com/media/EQf_9YKUwAAYlj_?format=jpg&name=4096x4096)
+![Poster for the new Wes Anderson movie: The French Dispatch ](https://hips.hearstapps.com/hmg-prod/images/the-french-dispatch-poster-1581438472.jpg?resize=980:*)
 
 You can watch the trailer here: `youtube: TcPk2p0Zaw4`
 
