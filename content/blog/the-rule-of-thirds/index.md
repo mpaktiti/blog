@@ -1,7 +1,7 @@
 ---
 title: The Rule of Thirds
-date: "2023-9-19"
-description: "On the nonlinearity of progress and the rules that apply when you are chasing a dream."
+date: "2023-09-19"
+description: "On the nonlinearity of progress and the rules that apply when you are chasing a dream"
 ---
 
 > When you are chasing a dream, or doing anything hard, you are meant to feel good a third of the time, okay a third of the time, and crappy a third of the time.
