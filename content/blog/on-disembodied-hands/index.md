@@ -1,7 +1,7 @@
 ---
 title: On Disembodied Hands
 date: "2024-07-24"
-description: "Julio Cortazar's Season of the Hand vs The Thing"
+description: "Julio Cortazar's Season of the Hand vs Charles Addams's The Thing"
 ---
 
 We all know Thing T. Thing, commonly referred to as just Thing, from The Addams Family. It's a mysterious and most helpful severed hand and a valued member of the family.
