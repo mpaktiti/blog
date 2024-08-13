@@ -4,15 +4,16 @@ date: "2023-09-14"
 description: "A list of things that put a smile on my face"
 ---
 
-Not unlikely Julie Andrews, I also have a list of my favorite things. The list is a work in progress. I have never removed anything so far, but I keep adding new ones.
+Not unlikely Julie Andrews, I also have a list of my favorite things. The list is a work in progress and I hope I never stop adding new things that make me happy.
 
 ---
 
-Clean, fresh sheets.
+
+A freshly made bed.
 
 Salt water.
 
-Noons during summertime, with the shutters half closed, the curtain dancing with the wind, and the sound of cicadas.
+Noons during summertime in Greece, with the shutters half closed, the curtain dancing with the wind, and the sound of cicadas.
 
 Cafes that have all-day breakfast.
 
@@ -34,6 +35,10 @@ Big, wide windows.
 
 Big, old trees.
 
+A slice of sourdough bread with butter and nutella.
+
+A slice of sourdough bread with olive oil, oregano, and grated tomato.
+
 Paws.
 
 Open horizon, for always putting our problems in perspective.
@@ -52,11 +57,15 @@ Tree leaves on the ground.
 
 Open-air cinemas.
 
+Hammocks.
+
 The sound of a typewriter.
 
 Frosting.
 
 Pretty dresses.
+
+Loose summer pants.
 
 Messy hair.
 
@@ -82,11 +91,15 @@ Pineapple for breakfast.
 
 Watermelon and feta for dinner.
 
-Sand.
+Walking in the sand.
 
 Being underwater.
 
 Leather vintage suitcases.
+
+Pasta.
+
+Red velvet cake.
 
 Braided hair.
 
@@ -102,13 +115,9 @@ Rope door curtains.
 
 Rocking chairs.
 
-Owls.
-
 Whales.
 
 Nutcracker soldiers.
-
-Harry Potter.
 
 Vintage globes.
 
