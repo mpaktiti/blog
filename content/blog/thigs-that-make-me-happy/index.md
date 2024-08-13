@@ -1,7 +1,11 @@
 ---
-title: Things that make me happy
+title: A few of my favorite things
 date: "2023-09-14"
 description: "A list of things that put a smile on my face"
+---
+
+Not unlikely Julie Andrews, I also have a list of my favorite things. The list is a work in progress. I have never removed anything so far, but I keep adding new ones.
+
 ---
 
 Clean, fresh sheets.
