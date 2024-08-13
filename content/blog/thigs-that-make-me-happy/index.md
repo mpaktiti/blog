@@ -4,10 +4,9 @@ date: "2023-09-14"
 description: "A list of things that put a smile on my face"
 ---
 
-Not unlikely Julie Andrews, I also have a list of my favorite things. The list is a work in progress and I hope I never stop adding new things that make me happy.
+Not unlikely Julie Andrews, I also have a list of my favorite things. The list is a work in progress and I hope I never stop finding new things that make me happy.
 
 ---
-
 
 A freshly made bed.
 
@@ -22,6 +21,8 @@ New books.
 Old books.
 
 Street art.
+
+Food markets.
 
 Handmade gifts.
 
@@ -58,6 +59,8 @@ Tree leaves on the ground.
 Open-air cinemas.
 
 Hammocks.
+
+Street corn in Mexico.
 
 The sound of a typewriter.
 
