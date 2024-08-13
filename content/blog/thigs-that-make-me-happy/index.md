@@ -22,7 +22,9 @@ Handmade gifts.
 
 The warmth of an animal.
 
-The smell of a baby.
+A baby's smell.
+
+A baby's hand wrapped around my finger, holding tight.
 
 Big, wide windows.
 
@@ -58,7 +60,7 @@ Stripes.
 
 Making lists.
 
-Grapes.
+Grapes in early August.
 
 Figs in late August.
 
@@ -74,19 +76,25 @@ Polaroids.
 
 Pineapple for breakfast.
 
-Watermelon and feta dor dinner.
+Watermelon and feta for dinner.
 
 Sand.
 
-Leather suitcases.
+Being underwater.
+
+Leather vintage suitcases.
 
 Braided hair.
 
 Sleeping with the windows open.
 
+Night sailing.
+
 Deep, meaningful, passionate conversations.
 
 Hammocks.
+
+Rope door curtains.
 
 Rocking chairs.
 
