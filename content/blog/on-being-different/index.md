@@ -31,3 +31,5 @@ Does Khelif has any kind of biological advantage over the other boxers? I don't 
 I hope Imane Khelif wins the gold medal. And that she makes a lot of money out of suing everyone for defamation.
 
 ![Imane Khelif celebrating](khelif.png)
+
+PS: She did win the gold metal. And she did sue J.K. Rowling and Elon Musk for defamation!
