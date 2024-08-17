@@ -32,4 +32,4 @@ I hope Imane Khelif wins the gold medal. And that she makes a lot of money out o
 
 ![Imane Khelif celebrating](khelif.png)
 
-PS: She did win the gold metal. And she did sue J.K. Rowling and Elon Musk for defamation!
+August 17 update: She did win the gold metal. And she did sue J.K. Rowling and Elon Musk for defamation!
