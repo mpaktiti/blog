@@ -32,8 +32,6 @@ Now this is my kind of gossip. A peephole through which I can look at my favorit
 
   ![Poster that says write drunk; edit sober](write-drunk-edit-sober.png)
 
-  ![Natalia Vodianova photographed by Annie Leibovitz for Vogue](vogue-photoshoot.webp)
-
 - **George Orwell** died a few months after [1984](https://www.goodreads.com/book/show/61439040-1984) was published (and was an instant hit) in 1949.
 
 - It took 14 years for **Marcel Proust** to write his [In Search of Lost Time](https://www.goodreads.com/book/show/18796.In_Search_of_Lost_Time), during which he was in bed the whole time. He wasn't sick, he chose to isolate himself in his bedroom after his parents's death. His housekeeper provided him with his daily croissants (ooh la la) and hot coffee.
