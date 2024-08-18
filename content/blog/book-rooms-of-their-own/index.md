@@ -1,12 +1,12 @@
 ---
 title: Rooms of Their Own
 date: "2024-08-17"
-description: "I read Rooms of Their Own: Where Great Writers Write and I learned many interesting facts about famous authors"
+description: "Which famous author had rows of dummy bookcases with fake book spines and who wrote for 14 years exclusively from his bed?"
 ---
 
-Today I finished the [Rooms of Their Own: Where Great Writers Write](https://www.goodreads.com/book/show/58684333-rooms-of-their-own), a book by Alex Johnson talks about the spaces, habits and rituals of many famous writers.
+A couple of days ago I got [Rooms of Their Own: Where Great Writers Write](https://www.goodreads.com/book/show/58684333-rooms-of-their-own) as a gift for my name day celebration ([it's a thing](https://en.wikipedia.org/wiki/Name_day#Greece_and_Cyprus) in Greece). It's a book about famous authors, the spaces they wrote from, and their habits and daily rituals.
 
-Now this is my kind of gossip. A peephole through which I can look at my favorite authors and learn everything that's unique about them. I learned many things, and I'm listing here my favorites.
+This is my kind of gossip. A peephole through which I can look at my favorite authors and learn about their idiosyncrasies. Of course I had to list here my favorite pieces of information. Off we go. 
 
 - **Isabel Allende** starts every new novel on January 8, the date she wrote a letter to her dying grandfather back in the day, which evolved to be [The House of the Spirits](https://www.goodreads.com/book/show/9328.The_House_of_the_Spirits).
 
