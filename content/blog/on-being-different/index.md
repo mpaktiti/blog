@@ -1,5 +1,5 @@
 ---
-title: On Being Different
+title: On being different
 date: "2024-08-04"
 description: "On the right to be different without loosing any of your rights"
 ---

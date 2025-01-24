@@ -1,5 +1,5 @@
 ---
-title: Burning Women
+title: Burning women
 date: "2024-09-27"
 description: "An awful tradition of the patriarchy that won't let go."
 ---

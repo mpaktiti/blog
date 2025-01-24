@@ -1,5 +1,5 @@
 ---
-title: On Disembodied Hands
+title: On disembodied hands
 date: "2024-07-24"
 description: "Julio Cortazar's Season of the Hand vs Charles Addams's The Thing"
 ---

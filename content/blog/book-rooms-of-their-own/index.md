@@ -1,5 +1,5 @@
 ---
-title: Rooms of Their Own
+title: Rooms of their own
 date: "2024-08-17"
 description: "Which famous author had rows of dummy bookcases with fake book spines and who wrote for 14 years exclusively from his bed?"
 ---

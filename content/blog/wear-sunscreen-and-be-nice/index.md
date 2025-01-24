@@ -1,5 +1,5 @@
 ---
-title: Wear Sunscreen and Be Nice
+title: Wear sunscreen and be nice
 date: "2024-08-29"
 description: "My favorite graduation speeches over the years."
 ---

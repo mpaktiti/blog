@@ -1,5 +1,5 @@
 ---
-title: Weekly Favorites
+title: Weekly favorites
 date: "2020-02-14"
 description: "TL;DR My favorite things on the Internet for this week"
 ---

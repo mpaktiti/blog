@@ -1,5 +1,5 @@
 ---
-title: Steal Like an Artist
+title: Steal like an artist
 date: "2020-02-09"
 description: "TL;DR I read 'Steal Like an Artist' and I'm writing about the bits I found interesting"
 ---

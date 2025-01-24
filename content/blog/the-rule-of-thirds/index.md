@@ -1,5 +1,5 @@
 ---
-title: The Rule of Thirds
+title: The rule of thirds
 date: "2023-09-19"
 description: "On the nonlinearity of progress and the rules that apply when you are chasing a dream"
 ---
