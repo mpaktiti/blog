@@ -25,7 +25,7 @@ const Layout = ({ location, title, children }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <ThemeToggle />  {/* Add this line */}
+      <ThemeToggle />
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>

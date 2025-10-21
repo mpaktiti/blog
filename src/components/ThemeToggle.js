@@ -5,12 +5,9 @@ const ThemeToggle = () => {
   const [theme, setTheme] = useState('light');
 
   useEffect(() => {
-    // Check for saved theme preference or default to 'light'
-    // const savedTheme = localStorage.getItem('theme') || 'light';
-    // setTheme(savedTheme);
-    // document.documentElement.setAttribute('data-theme', savedTheme);
     // Check if we're in the browser
     if (typeof window !== 'undefined') {
+        // Check for saved theme preference or default to 'light'
         const savedTheme = localStorage.getItem('theme') || 'light';
         setTheme(savedTheme);
         document.documentElement.setAttribute('data-theme', savedTheme);
@@ -18,10 +15,6 @@ const ThemeToggle = () => {
   }, []);
 
   const toggleTheme = () => {
-    // const newTheme = theme === 'light' ? 'dark' : 'light';
-    // setTheme(newTheme);
-    // localStorage.setItem('theme', newTheme);
-    // document.documentElement.setAttribute('data-theme', newTheme);
     const newTheme = theme === 'light' ? 'dark' : 'light';
     setTheme(newTheme);
     if (typeof window !== 'undefined') {
