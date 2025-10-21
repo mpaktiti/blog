@@ -2,6 +2,6 @@ This is my blog repository, where I write about tech and anything else that's on
 
 ### Dev stuff
 
-Run localy with `gatsby develop` and go to [localhost:8000](http://localhost:8000/).
+Run localy with `npm run develop` or `npm run` and go to [localhost:8000](http://localhost:8000/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2caca14f-636c-49cf-913b-50bda2a54eea/deploy-status)](https://app.netlify.com/sites/mpaktiti/deploys)
