@@ -1,3 +1,86 @@
+/* =============================================================================
+   DARK MODE CSS VARIABLES - Add this to the TOP of your style.css
+   ============================================================================= */
+
+/* Light theme colors (default) */
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f7f7f7;
+  --text-primary: #2e353f;
+  --text-secondary: #4f5969;
+  --border-color: #d1dce5;
+  --link-color: #005b99;
+  --link-hover: #004777;
+  --code-bg: #f5f5f5;
+  --shadow: rgba(0, 0, 0, 0.1);
+  --heading-color: #1a202c;
+  --heading-black: #000000;
+}
+
+/* Dark theme colors */
+[data-theme='dark'] {
+  --bg-primary: #1a1a1a;
+  --bg-secondary: #2d2d2d;
+  --text-primary: #e0e0e0;
+  --text-secondary: #a0a0a0;
+  --border-color: #404040;
+  --link-color: #66b3ff;
+  --link-hover: #99ccff;
+  --code-bg: #2d2d2d;
+  --shadow: rgba(0, 0, 0, 0.3);
+  --heading-color: #f0f0f0;
+  --heading-black: #ffffff;
+}
+
+/* Apply smooth transitions */
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: var(--link-color);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+/* Theme toggle button styles */
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  z-index: 1000;
+  box-shadow: 0 2px 8px var(--shadow);
+}
+
+.theme-toggle:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px var(--shadow);
+}
+
+.theme-toggle svg {
+  color: var(--text-primary);
+}
+
+/* =============================================================================
+   END DARK MODE VARIABLES
+   Your existing style.css content continues below...
+   ============================================================================= */
+   
 /* CSS Custom Properties Definitions */
 
 :root {
@@ -52,12 +135,13 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
-  --color-text: #2e353f;
-  --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
-  --color-accent: #d1dce5;
+  /* Legacy color variables - now pointing to dark mode variables */
+  --color-primary: var(--link-color);
+  --color-text: var(--text-primary);
+  --color-text-light: var(--text-secondary);
+  --color-heading: var(--heading-color);
+  --color-heading-black: var(--heading-black);
+  --color-accent: var(--border-color);
 }
 
 /* HTML elements */
@@ -78,15 +162,17 @@ html {
 body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
-  color: var(--color-text);
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
 }
 
 footer {
   padding: var(--spacing-6) var(--spacing-0);
+  color: var(--text-secondary);
 }
 
 hr {
-  background: var(--color-accent);
+  background: var(--border-color);
   height: 1px;
   border: 0;
 }
@@ -112,13 +198,13 @@ h4,
 h5,
 h6 {
   font-weight: var(--fontWeight-bold);
-  color: var(--color-heading);
+  color: var(--heading-color);
 }
 
 h1 {
   font-weight: var(--fontWeight-black);
   font-size: var(--fontSize-6);
-  color: var(--color-heading-black);
+  color: var(--heading-black);
 }
 
 h2 {
@@ -163,6 +249,7 @@ p {
   --x-height-multiplier: 0.35;
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
   padding: var(--spacing-0);
+  color: var(--text-primary);
 }
 
 ul,
@@ -179,6 +266,7 @@ ul li,
 ol li {
   padding-left: var(--spacing-0);
   margin-bottom: calc(var(--spacing-8) / 2);
+  color: var(--text-primary);
 }
 
 li > p {
@@ -195,11 +283,11 @@ li > ul {
 }
 
 blockquote {
-  color: var(--color-text-light);
+  color: var(--text-secondary);
   margin-left: calc(-1 * var(--spacing-6));
   margin-right: var(--spacing-8);
   padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6);
-  border-left: var(--spacing-1) solid var(--color-primary);
+  border-left: var(--spacing-1) solid var(--link-color);
   font-size: var(--fontSize-2);
   font-style: italic;
   margin-bottom: var(--spacing-8);
@@ -222,18 +310,24 @@ table {
 }
 
 table thead tr th {
-  border-bottom: 1px solid var(--color-accent);
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-primary);
+}
+
+table td {
+  color: var(--text-primary);
 }
 
 /* Link */
 
 a {
-  color: var(--color-primary);
+  color: var(--link-color);
 }
 
 a:hover,
 a:focus {
   text-decoration: none;
+  color: var(--link-hover);
 }
 
 /* Custom classes */
@@ -268,7 +362,7 @@ a:focus {
 
 .post-list-item h2 {
   font-size: var(--fontSize-4);
-  color: var(--color-primary);
+  color: var(--link-color);
   margin-bottom: var(--spacing-2);
   margin-top: var(--spacing-0);
 }
@@ -282,6 +376,7 @@ a:focus {
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
+  color: var(--text-primary);
 }
 
 .bio {
@@ -307,6 +402,7 @@ a:focus {
 .blog-post header p {
   font-size: var(--fontSize-2);
   font-family: var(--font-heading);
+  color: var(--text-secondary);
 }
 
 .blog-post-nav ul {
@@ -315,6 +411,15 @@ a:focus {
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+}
+
+/* Syntax highlighting adjustments for dark mode */
+.gatsby-highlight pre[class*="language-"] {
+  background-color: var(--code-bg);
+}
+
+.gatsby-highlight code[class*="language-"] {
+  color: var(--text-primary);
 }
 
 /* Media queries */
