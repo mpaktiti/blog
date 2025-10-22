@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
+import NewsletterSubscribe from '../components/NewsletterSubscribe'
 import Seo from "../components/seo"
 
 const BlogPostTemplate = ({
@@ -31,6 +32,9 @@ const BlogPostTemplate = ({
           <Bio />
         </footer>
       </article>
+
+      <NewsletterSubscribe />
+
       <nav className="blog-post-nav">
         <ul
           style={{
