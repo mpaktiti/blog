@@ -30,5 +30,3 @@ I don't know if Einstein's world would be nice or even remotely interesting (unl
 "God" does play dice.\
 Not because a mean deity feels like, but because **our choices are half chance**.\
 And we better remember that when we feel all powerful or all weak.
-
-`youtube: kM7nykbnbaE`
